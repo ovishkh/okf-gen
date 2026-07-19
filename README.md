@@ -272,7 +272,7 @@ The exported API also includes `createChatModel`, `renderBundle`, `validateBundl
 
 ## Coding Agents
 
-The published package includes [SKILL.md](./SKILL.md), which gives Codex, Claude Code, Cursor, and other coding agents a safe workflow for generating, validating, and visualizing OKF bundles. Agents can read that file directly from the repository or installed package.
+The published package includes [SKILL.md](./.agents/skills/okf/SKILL.md), which gives Codex, Claude Code, Cursor, and other coding agents a safe workflow for generating, validating, and visualizing OKF bundles. Agents can read that file directly from the repository or installed package.
 
 ## Safety and Limits
 

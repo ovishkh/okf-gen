@@ -21,7 +21,7 @@
   "files": [
     "dist",
     "README.md",
-    "SKILL.md",
+    ".agents",
     "LICENSE"
   ],
   "main": "dist/index.js",
